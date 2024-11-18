@@ -57,12 +57,12 @@ button {
 }
 
 
-button:nth-child(1) {
+button:nth-child(2) {
     margin-left: -200px;
     background: #e94d58;
 }
 
-button:nth-child(2) {
+button:nth-child(1) {
     margin-right: -200px;
     background: white;
     color: #e94d58;
@@ -86,7 +86,7 @@ button:nth-child(2) {
     background: #c8394b;
 }
 
-#no-btn {
+#yes-btn {
     cursor: not-allowed;
 }
 p {
